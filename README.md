@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6. By Ryan Miano
 
-###
+### Description
+This is an application that one can create a vote , upvote it,downvote it or even delete it
 
 ## Development server
 
