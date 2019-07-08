@@ -14,7 +14,7 @@ export class BackgroundcolorDirective {
     this.highlight("highlight")
   }
   private highlight(highlight: string){
-    this.elem.nativeElement.style.backgroundColor = 'yellow';
+    this.elem.nativeElement.style.backgroundColor = 'aquamarine';
   }
 }
 

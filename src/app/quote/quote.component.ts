@@ -10,8 +10,8 @@ import { Quote } from '../quote'
 export class QuoteComponent implements OnInit {
 
   quotes: Quote[] = [
-    new Quote('kevin','leornado-decapri','the book of leave will save lives',new Date(2017,12,12)),
-    new Quote('Brian','leornado-decapri','leave only in spirit',new Date(3,12,2003)),
+    new Quote('kevin','leornado-da-vinci','the book of leaves will save lives',new Date(2017,12,12)),
+    new Quote('Brian','leornado-decaprio','leave only in spirit',new Date(3,12,2003)),
 
   ]
 
