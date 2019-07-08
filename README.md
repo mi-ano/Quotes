@@ -15,6 +15,23 @@ This is an application that one can create a vote , upvote it,downvote it or eve
 
 *The program allows the user to submit their own quote, along with their name and the date.
 
+### Installation
+
+*Fork the repo
+
+*Clone to local computer using git.
+
+*Install Angular CLI,Typescript
+
+*Make a new branch
+
+*Add changes to reflect the changes made
+
+*Commit your changes
+
+*Push to the branch
+
+*Create a pull request
 
 ## Development server
 
