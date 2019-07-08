@@ -40,6 +40,9 @@ This is an application that one can create a vote , upvote it,downvote it or eve
 *ANGULAR 8 FRAMEWORK*,
 *MARKDOWN*
 
+### Bugs
+I haven't come across any known bugs but if you spot feel free to contact me
+
 ### Contact Information 
 You can contact me through my E-mail:ryanmiano68@gail.com
 
