@@ -5,6 +5,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### Description
 This is an application that one can create a vote , upvote it,downvote it or even delete it
 
+### Behavior Driven Development
+
+*The program allows the user to view quotes submitted by other users.
+
+*The program shows the user the date the quotes were posted.
+
+*The program allows the user to delete quotes posted by other users.
+
+*The program allows the user to submit their own quote, along with their name and the date.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
