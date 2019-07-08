@@ -1,0 +1,23 @@
+<div class='container-fluid'>
+    <div class='row'>
+        <div class='col-6'>
+            <strong>Quotes</strong>
+            <div class="card" *ngFor='let quote of quotes let i = index'>
+                <div class="card-header">
+                    <p>Published by: {{ quote.publisher }}</p>
+                </div>
+                <div class="card-body" appBackgroundcolor>
+                    <p>{{ quote.description }}</p>
+                    <p>Time: {{ quote.days|dateCount }} days ago</p>
+                </div>
+                <div class="card-footer">
+                    <app-quote-description [quote]='quote' (isComplete) = 'deleteQuote($event,i)'></app-quote-description>
+                </div>
+            </div>
+        </div>
+        <div class='col-6'>
+            <strong>Create Quotes</strong>
+            <app-quote-form (addQuote)='addNewQuote($event)'></app-quote-form>
+        </div>   
+    </div>
+</div>

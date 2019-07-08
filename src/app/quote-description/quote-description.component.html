@@ -1,1 +1,4 @@
-<p>quote-description works!</p>
+<p>Author: <i>{{ quote.author }}</i></p>
+<button (click)="voteQuoteUp()" class="btn btn-outline-success" type="submit">Like</button><span class="badge badge-success">{{ upvotes }} likes</span>
+<button (click)="voteQuoteDown()" class="btn btn-outline-danger">Dislike</button><span class="badge badge-danger">{{downvotes}} Dislikes</span>
+<button (click)= 'quoteDelete(true)' class="btn btn-outline-info">Delete</button>
