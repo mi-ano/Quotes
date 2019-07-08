@@ -7,31 +7,38 @@ This is an application that one can create a vote , upvote it,downvote it or eve
 
 ### Behavior Driven Development
 
-*The program allows the user to view quotes submitted by other users.
+*The program allows the user to view quotes submitted by other users.*
 
-*The program shows the user the date the quotes were posted.
+*The program shows the user the date the quotes were posted.*
 
-*The program allows the user to delete quotes posted by other users.
+*The program allows the user to delete quotes posted by other users.*
 
-*The program allows the user to submit their own quote, along with their name and the date.
+*The program allows the user to submit their own quote, along with their name and the date.*
 
 ### Installation
 
-*Fork the repo
+*Fork the repo*
 
-*Clone to local computer using git.
+*Clone to local computer using git.*
 
-*Install Angular CLI,Typescript
+*Install Angular CLI,Typescript*
 
-*Make a new branch
+*Make a new branch*
 
-*Add changes to reflect the changes made
+*Add changes to reflect the changes made*
 
-*Commit your changes
+*Commit your changes*
 
-*Push to the branch
+*Push to the branch*
 
-*Create a pull request
+*Create a pull request*
+
+### Technologies Used
+*HTML*
+*CSS (BOOTSTRAP)*
+*TYPESCRIPT*
+*ANGULAR 8 FRAMEWORK**
+*MARKDOWN*
 
 ## Development server
 
