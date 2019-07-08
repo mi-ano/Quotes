@@ -34,10 +34,10 @@ This is an application that one can create a vote , upvote it,downvote it or eve
 *Create a pull request*
 
 ### Technologies Used
-*HTML*
-*CSS (BOOTSTRAP)*
-*TYPESCRIPT*
-*ANGULAR 8 FRAMEWORK**
+*HTML*,
+*CSS (BOOTSTRAP)*,
+*TYPESCRIPT*,
+*ANGULAR 8 FRAMEWORK*,
 *MARKDOWN*
 
 ## Development server
